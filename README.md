@@ -3,6 +3,8 @@
 Esse projeto tem como intuito de demonstrar minhas habilidades e conceitos com React Js, frisando apenas o Front-End
 Embora esssa seja de uma aplicação simples, consegui desenvolver um projeto completo, onde o mesmo pode servir como mockup para outros projetos.
 
+# AINDA ESTÁ EM PRODUÇÃO
+
 ## Tecnologia aplicada
 **React JS e Sass**
 
